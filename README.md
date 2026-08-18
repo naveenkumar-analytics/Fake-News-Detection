@@ -1,5 +1,4 @@
-## Fake-News-Detection
-Fake News Detection using NLP &amp; Machine Learning
+
 
 
 # 🎯 Fake News Detection using NLP & Machine Learning
@@ -10,7 +9,7 @@ Fake News Detection using NLP &amp; Machine Learning
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> **An end-to-end Machine Learning solution to detect fake news with 95.5% accuracy using Natural Language Processing**
+An end-to-end Machine Learning solution to detect fake news with 95.5% accuracy using Natural Language Processing
 
 ---
 
